@@ -1,0 +1,10 @@
+N:\Classes\Sem2-Winter2020\ICS3U Programming\DoVaughn (s419702)\Unit 1 (Problem Solving)\Music\Music\bin\Debug\Music.exe.config
+N:\Classes\Sem2-Winter2020\ICS3U Programming\DoVaughn (s419702)\Unit 1 (Problem Solving)\Music\Music\bin\Debug\Music.exe
+N:\Classes\Sem2-Winter2020\ICS3U Programming\DoVaughn (s419702)\Unit 1 (Problem Solving)\Music\Music\bin\Debug\Music.pdb
+N:\Classes\Sem2-Winter2020\ICS3U Programming\DoVaughn (s419702)\Unit 1 (Problem Solving)\Music\Music\obj\Debug\Music.csprojAssemblyReference.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\DoVaughn (s419702)\Unit 1 (Problem Solving)\Music\Music\obj\Debug\Music.frmMusic.resources
+N:\Classes\Sem2-Winter2020\ICS3U Programming\DoVaughn (s419702)\Unit 1 (Problem Solving)\Music\Music\obj\Debug\Music.Properties.Resources.resources
+N:\Classes\Sem2-Winter2020\ICS3U Programming\DoVaughn (s419702)\Unit 1 (Problem Solving)\Music\Music\obj\Debug\Music.csproj.GenerateResource.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\DoVaughn (s419702)\Unit 1 (Problem Solving)\Music\Music\obj\Debug\Music.csproj.CoreCompileInputs.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\DoVaughn (s419702)\Unit 1 (Problem Solving)\Music\Music\obj\Debug\Music.exe
+N:\Classes\Sem2-Winter2020\ICS3U Programming\DoVaughn (s419702)\Unit 1 (Problem Solving)\Music\Music\obj\Debug\Music.pdb
