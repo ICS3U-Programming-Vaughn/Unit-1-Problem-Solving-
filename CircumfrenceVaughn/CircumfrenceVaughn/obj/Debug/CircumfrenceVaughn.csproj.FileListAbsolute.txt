@@ -1,0 +1,10 @@
+N:\Classes\Sem2-Winter2020\ICS3U Programming\DoVaughn (s419702)\Unit 1 (Problem Solving)\CircumfrenceVaughn\CircumfrenceVaughn\bin\Debug\CircumfrenceVaughn.exe.config
+N:\Classes\Sem2-Winter2020\ICS3U Programming\DoVaughn (s419702)\Unit 1 (Problem Solving)\CircumfrenceVaughn\CircumfrenceVaughn\bin\Debug\CircumfrenceVaughn.exe
+N:\Classes\Sem2-Winter2020\ICS3U Programming\DoVaughn (s419702)\Unit 1 (Problem Solving)\CircumfrenceVaughn\CircumfrenceVaughn\bin\Debug\CircumfrenceVaughn.pdb
+N:\Classes\Sem2-Winter2020\ICS3U Programming\DoVaughn (s419702)\Unit 1 (Problem Solving)\CircumfrenceVaughn\CircumfrenceVaughn\obj\Debug\CircumfrenceVaughn.csprojAssemblyReference.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\DoVaughn (s419702)\Unit 1 (Problem Solving)\CircumfrenceVaughn\CircumfrenceVaughn\obj\Debug\CircumfrenceVaughn.frmCircumfrence.resources
+N:\Classes\Sem2-Winter2020\ICS3U Programming\DoVaughn (s419702)\Unit 1 (Problem Solving)\CircumfrenceVaughn\CircumfrenceVaughn\obj\Debug\CircumfrenceVaughn.Properties.Resources.resources
+N:\Classes\Sem2-Winter2020\ICS3U Programming\DoVaughn (s419702)\Unit 1 (Problem Solving)\CircumfrenceVaughn\CircumfrenceVaughn\obj\Debug\CircumfrenceVaughn.csproj.GenerateResource.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\DoVaughn (s419702)\Unit 1 (Problem Solving)\CircumfrenceVaughn\CircumfrenceVaughn\obj\Debug\CircumfrenceVaughn.csproj.CoreCompileInputs.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\DoVaughn (s419702)\Unit 1 (Problem Solving)\CircumfrenceVaughn\CircumfrenceVaughn\obj\Debug\CircumfrenceVaughn.exe
+N:\Classes\Sem2-Winter2020\ICS3U Programming\DoVaughn (s419702)\Unit 1 (Problem Solving)\CircumfrenceVaughn\CircumfrenceVaughn\obj\Debug\CircumfrenceVaughn.pdb

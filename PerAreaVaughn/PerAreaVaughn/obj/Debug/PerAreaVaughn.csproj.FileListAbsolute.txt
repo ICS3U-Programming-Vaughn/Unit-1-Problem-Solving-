@@ -1,0 +1,10 @@
+N:\Classes\Sem2-Winter2020\ICS3U Programming\DoVaughn (s419702)\Unit 1 (Problem Solving)\PerAreaVaughn\PerAreaVaughn\bin\Debug\PerAreaVaughn.exe.config
+N:\Classes\Sem2-Winter2020\ICS3U Programming\DoVaughn (s419702)\Unit 1 (Problem Solving)\PerAreaVaughn\PerAreaVaughn\bin\Debug\PerAreaVaughn.exe
+N:\Classes\Sem2-Winter2020\ICS3U Programming\DoVaughn (s419702)\Unit 1 (Problem Solving)\PerAreaVaughn\PerAreaVaughn\bin\Debug\PerAreaVaughn.pdb
+N:\Classes\Sem2-Winter2020\ICS3U Programming\DoVaughn (s419702)\Unit 1 (Problem Solving)\PerAreaVaughn\PerAreaVaughn\obj\Debug\PerAreaVaughn.csprojAssemblyReference.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\DoVaughn (s419702)\Unit 1 (Problem Solving)\PerAreaVaughn\PerAreaVaughn\obj\Debug\PerAreaVaughn.frmPerArea.resources
+N:\Classes\Sem2-Winter2020\ICS3U Programming\DoVaughn (s419702)\Unit 1 (Problem Solving)\PerAreaVaughn\PerAreaVaughn\obj\Debug\PerAreaVaughn.Properties.Resources.resources
+N:\Classes\Sem2-Winter2020\ICS3U Programming\DoVaughn (s419702)\Unit 1 (Problem Solving)\PerAreaVaughn\PerAreaVaughn\obj\Debug\PerAreaVaughn.csproj.GenerateResource.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\DoVaughn (s419702)\Unit 1 (Problem Solving)\PerAreaVaughn\PerAreaVaughn\obj\Debug\PerAreaVaughn.csproj.CoreCompileInputs.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\DoVaughn (s419702)\Unit 1 (Problem Solving)\PerAreaVaughn\PerAreaVaughn\obj\Debug\PerAreaVaughn.exe
+N:\Classes\Sem2-Winter2020\ICS3U Programming\DoVaughn (s419702)\Unit 1 (Problem Solving)\PerAreaVaughn\PerAreaVaughn\obj\Debug\PerAreaVaughn.pdb

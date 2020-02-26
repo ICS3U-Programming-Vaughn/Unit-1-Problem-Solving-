@@ -30,15 +30,15 @@
         {
             this.components = new System.ComponentModel.Container();
             this.mnuProgram = new System.Windows.Forms.MenuStrip();
-            this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
-            this.grbBands = new System.Windows.Forms.GroupBox();
-            this.lblSong = new System.Windows.Forms.Label();
-            this.lblAlbum = new System.Windows.Forms.Label();
             this.mniBands = new System.Windows.Forms.ToolStripMenuItem();
             this.mniMuse = new System.Windows.Forms.ToolStripMenuItem();
             this.mniRedHotChiliPeppers = new System.Windows.Forms.ToolStripMenuItem();
             this.mniArcticMonkeys = new System.Windows.Forms.ToolStripMenuItem();
             this.mniBillyTalent = new System.Windows.Forms.ToolStripMenuItem();
+            this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
+            this.grbBands = new System.Windows.Forms.GroupBox();
+            this.lblAlbum = new System.Windows.Forms.Label();
+            this.lblSong = new System.Windows.Forms.Label();
             this.mnuProgram.SuspendLayout();
             this.grbBands.SuspendLayout();
             this.SuspendLayout();
@@ -52,42 +52,6 @@
             this.mnuProgram.Size = new System.Drawing.Size(800, 24);
             this.mnuProgram.TabIndex = 0;
             this.mnuProgram.Text = "menuStrip1";
-            // 
-            // contextMenuStrip1
-            // 
-            this.contextMenuStrip1.Name = "contextMenuStrip1";
-            this.contextMenuStrip1.Size = new System.Drawing.Size(61, 4);
-            // 
-            // grbBands
-            // 
-            this.grbBands.Controls.Add(this.lblAlbum);
-            this.grbBands.Controls.Add(this.lblSong);
-            this.grbBands.Location = new System.Drawing.Point(165, 94);
-            this.grbBands.Name = "grbBands";
-            this.grbBands.Size = new System.Drawing.Size(383, 247);
-            this.grbBands.TabIndex = 2;
-            this.grbBands.TabStop = false;
-            // 
-            // lblSong
-            // 
-            this.lblSong.AutoSize = true;
-            this.lblSong.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblSong.Location = new System.Drawing.Point(6, 16);
-            this.lblSong.Name = "lblSong";
-            this.lblSong.Size = new System.Drawing.Size(77, 31);
-            this.lblSong.TabIndex = 0;
-            this.lblSong.Text = "Song";
-            // 
-            // lblAlbum
-            // 
-            this.lblAlbum.AutoSize = true;
-            this.lblAlbum.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblAlbum.Location = new System.Drawing.Point(9, 70);
-            this.lblAlbum.Name = "lblAlbum";
-            this.lblAlbum.Size = new System.Drawing.Size(90, 31);
-            this.lblAlbum.TabIndex = 1;
-            this.lblAlbum.Text = "Album";
-            this.lblAlbum.Click += new System.EventHandler(this.LblBand_Click);
             // 
             // mniBands
             // 
@@ -119,12 +83,50 @@
             this.mniArcticMonkeys.Name = "mniArcticMonkeys";
             this.mniArcticMonkeys.Size = new System.Drawing.Size(189, 22);
             this.mniArcticMonkeys.Text = "Arctic Monkeys";
+            this.mniArcticMonkeys.Click += new System.EventHandler(this.MniArcticMonkeys_Click);
             // 
             // mniBillyTalent
             // 
             this.mniBillyTalent.Name = "mniBillyTalent";
             this.mniBillyTalent.Size = new System.Drawing.Size(189, 22);
             this.mniBillyTalent.Text = "Billy Talent";
+            this.mniBillyTalent.Click += new System.EventHandler(this.MniBillyTalent_Click);
+            // 
+            // contextMenuStrip1
+            // 
+            this.contextMenuStrip1.Name = "contextMenuStrip1";
+            this.contextMenuStrip1.Size = new System.Drawing.Size(61, 4);
+            // 
+            // grbBands
+            // 
+            this.grbBands.Controls.Add(this.lblAlbum);
+            this.grbBands.Controls.Add(this.lblSong);
+            this.grbBands.Location = new System.Drawing.Point(165, 94);
+            this.grbBands.Name = "grbBands";
+            this.grbBands.Size = new System.Drawing.Size(383, 247);
+            this.grbBands.TabIndex = 2;
+            this.grbBands.TabStop = false;
+            // 
+            // lblAlbum
+            // 
+            this.lblAlbum.AutoSize = true;
+            this.lblAlbum.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblAlbum.Location = new System.Drawing.Point(9, 70);
+            this.lblAlbum.Name = "lblAlbum";
+            this.lblAlbum.Size = new System.Drawing.Size(90, 31);
+            this.lblAlbum.TabIndex = 1;
+            this.lblAlbum.Text = "Album";
+            this.lblAlbum.Click += new System.EventHandler(this.LblBand_Click);
+            // 
+            // lblSong
+            // 
+            this.lblSong.AutoSize = true;
+            this.lblSong.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblSong.Location = new System.Drawing.Point(6, 16);
+            this.lblSong.Name = "lblSong";
+            this.lblSong.Size = new System.Drawing.Size(77, 31);
+            this.lblSong.TabIndex = 0;
+            this.lblSong.Text = "Song";
             // 
             // frmMusic
             // 

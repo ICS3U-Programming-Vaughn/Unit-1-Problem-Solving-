@@ -44,7 +44,23 @@ namespace Music
 
         private void RedHotChiliPeppersToolStripMenuItem_Click(object sender, EventArgs e)
         {
+            // change the labels to reflect Red Hot Chili Peppers
+            this.lblSong.Text = "The Adventures of Rain Dance Maggie";
+            this.lblAlbum.Text = "I'm with You";
+        }
 
+        private void MniArcticMonkeys_Click(object sender, EventArgs e)
+        {
+            // change the labels to reflect Arctic Monkeys
+            this.lblSong.Text = "R U Mine?";
+            this.lblAlbum.Text = "Arctic Monkeys";
+        }
+
+        private void MniBillyTalent_Click(object sender, EventArgs e)
+        {
+            // change the labels to reflect Billy Talent
+            this.lblSong.Text = "Viking Death March";
+            this.lblAlbum.Text = "Dead Silence";
         }
     }
 }
