@@ -40,16 +40,19 @@ namespace MovingCatVaughn
 
         private void MniCat1_Click(object sender, EventArgs e)
         {
+            // change the image to cat 2
             this.picGibson.Image = Properties.Resources.cat1;
         }
 
         private void FenderTelecasterToolStripMenuItem_Click(object sender, EventArgs e)
         {
+            // change the image to a guitar
             this.picGibson.Image = Properties.Resources.RED_TELE_f_9447b3ac_8505_497c_8474_9358aa5bf07b;
         }
 
         private void MniGibson_Click(object sender, EventArgs e)
         {
+            //Change the image to a guitar
             this.picGibson.Image = Properties.Resources.Gibson_SG_Standard_61_Maestro_Vibrola_059_VC_01;
         }
     }

@@ -22,5 +22,17 @@ namespace CircumfrenceVaughn
             // when clicked program is closed
             this.Close();
         }
+
+        private void BtnCalculate_Click(object sender, EventArgs e)
+        {
+            //declare the local variable
+            double circumfrence, radius;
+
+        }
+
+        private void LblCircumferenceAnswer_Click(object sender, EventArgs e)
+        {
+            //
+        }
     }
 }
